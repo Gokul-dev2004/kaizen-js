@@ -1,0 +1,142 @@
+*{
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 80px;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    mix-blend-mode: multiply;
+}
+b{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+.rev{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 15px;
+}
+.r1{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px black;
+}
+.r1:hover{
+    transform: translateY(-20px);
+    transition: 1s;
+    box-shadow: 0px 0px 30px blue;
+}
+.r1 img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
+.r2{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px black;
+}
+.r2:hover{
+    transform: translateY(-20px);
+    transition: 1s;
+    box-shadow: 0px 0px 30px blue;
+}
+.r2 img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
+.r3{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px black;
+}
+.r3:hover{
+    transform: translateY(-20px);
+    transition: 1s;
+    box-shadow: 0px 0px 30px blue;
+}
+.r3 img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
+.r4{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px black;
+}
+.r4:hover{
+    transform: translateY(-20px);
+    transition: 1s;
+    box-shadow: 0px 0px 30px blue;
+}
+.r4 img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
+.r5{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px black;
+}
+.r5:hover{
+    transform: translateY(-20px);
+    transition: 1s;
+    box-shadow: 0px 0px 30px blue;
+}
+.r5 img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
+.footer p{
+
+    text-align: center;
+    color: #ffffffb3;
+}
+.foot-left i{
+    color: #ffffffb3;
+    font-size: 25px;
+}
+.foot-left a{
+    text-decoration: none;
+}
+.foot-left h5{
+    color: #ffffffb3;
+    font-size: 14px;
+}
+.foot-right a{
+    color: #ffffffb3;
+    padding: 6px;
+}
+.foot-right a:hover{
+    color: blue;
+}
+.foot-left i:hover{
+    color: blue;
+}
