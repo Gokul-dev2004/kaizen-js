@@ -7,7 +7,7 @@ function openProduct() {
     data = [
         {
             id: 101,
-            img: "./assets/ts-1.webp",
+            img: "./ts-1.webp",
             para: "Levi Ackerman Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -15,7 +15,7 @@ function openProduct() {
         },
         {
             id: 102,
-            img: "/assets/ts-2.webp",
+            img: "./ts-2.webp",
             para: "Monkey D Luffy Art T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -23,7 +23,7 @@ function openProduct() {
         },
         {
             id: 103,
-            img: "/assets/ts-3.webp",
+            img: "./ts-3.webp",
             para: "One Piece Luffy Name T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -31,7 +31,7 @@ function openProduct() {
         },
         {
             id: 104,
-            img: "/assets/ts-4.webp",
+            img: "./ts-4.webp",
             para: "Luffy Gear 5 Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -39,7 +39,7 @@ function openProduct() {
         },
         {
             id: 105,
-            img: "/assets/ts-5.webp",
+            img: "./ts-5.webp",
             para: "Roronoa Zoro Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -47,7 +47,7 @@ function openProduct() {
         },
         {
             id: 106,
-            img: "/assets/ts-6.webp",
+            img: "./ts-6.webp",
             para: "Jujutsu Kaisen Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -55,7 +55,7 @@ function openProduct() {
         },
         {
             id: 107,
-            img: "/assets/ts-7.webp",
+            img: "./ts-7.webp",
             para: "Itachi Uchiha Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -63,7 +63,7 @@ function openProduct() {
         },
         {
             id: 108,
-            img: "/assets/ts-8.webp",
+            img: "./ts-8.webp",
             para: "Solo Leveling Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -71,7 +71,7 @@ function openProduct() {
         },
         {
             id: 109,
-            img: "/assets/ts-9.webp",
+            img: "./ts-9.webp",
             para: "Luffy Joyboy Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -79,7 +79,7 @@ function openProduct() {
         },
         {
             id: 110,
-            img: "/assets/ts-10.webp",
+            img: "./ts-10.webp",
             para: "Naruto Ramen King T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -87,7 +87,7 @@ function openProduct() {
         },
         {
             id: 111,
-            img: "/assets/ts-11.webp",
+            img: "./ts-11.webp",
             para: "Dragon Ball Goku T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -95,7 +95,7 @@ function openProduct() {
         },
         {
             id: 112,
-            img: "/assets/ts-12.webp",
+            img: "./ts-12.webp",
             para: "Gear 5 Luffy Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -103,7 +103,7 @@ function openProduct() {
         },
         {
             id: 113,
-            img: "/assets/ts-13.webp",
+            img: "./ts-13.webp",
             para: "Son Goku DBS Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -111,7 +111,7 @@ function openProduct() {
         },
         {
             id: 114,
-            img: "/assets/ts-14.webp",
+            img: "./ts-14.webp",
             para: "Goku & Gohan Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -119,7 +119,7 @@ function openProduct() {
         },
         {
             id: 115,
-            img: "/assets/ts-15.webp",
+            img: "./ts-15.webp",
             para: "Madara Uchiha Oversized T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -127,7 +127,7 @@ function openProduct() {
         },
         {
             id: 116,
-            img: "/assets/ts-16.webp",
+            img: "./ts-16.webp",
             para: "Sasuke Sharingan T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -135,7 +135,7 @@ function openProduct() {
         },
         {
             id: 117,
-            img: "/assets/ts-3.webp",
+            img: "./ts-3.webp",
             para: "One Piece Luffy Name T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -143,7 +143,7 @@ function openProduct() {
         },
         {
             id: 118,
-            img: "/assets/ts-10.webp",
+            img: "./ts-10.webp",
             para: "Naruto Ramen King T-Shirt (Buy 2 @999)",
             price: 599.00,
             old: 1499.00,
@@ -151,7 +151,7 @@ function openProduct() {
         },
         {
             id: 201,
-            img: "./assets/bc-1.webp",
+            img: "./bc-1.webp",
             para: "Sasuke Uchiha Red Moon Phone Cover",
             price: 299.00,
             old2: 749.00,
@@ -159,7 +159,7 @@ function openProduct() {
         },
         {
             id: 202,
-            img: "/assets/bc-2.webp",
+            img: "./bc-2.webp",
             para: "Luffy Nika Sun God Phone Cover",
             price: 299.00,
             old2: 749.00,
@@ -167,7 +167,7 @@ function openProduct() {
         },
         {
             id: 203,
-            img: "/assets/bc-3.webp",
+            img: "./bc-3.webp",
             para: "Kakashi Hatake Manga Phone Cover",
             price: 299.00,
             old2: 749.00,
@@ -175,7 +175,7 @@ function openProduct() {
         },
         {
             id: 204,
-            img: "/assets/bc-4.webp",
+            img: "./bc-4.webp",
             para: "Itachi Uchiha Sharingan Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -183,7 +183,7 @@ function openProduct() {
         },
         {
             id: 205,
-            img: "/assets/bc-5.webp",
+            img: "./bc-5.webp",
             para: "Roronoa Zoro Action Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -191,7 +191,7 @@ function openProduct() {
         },
         {
             id: 206,
-            img: "/assets/bc-6.webp",
+            img: "./bc-6.webp",
             para: "Luffy Joyboy Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -199,7 +199,7 @@ function openProduct() {
         },
         {
             id: 207,
-            img: "/assets/bc-7.webp",
+            img: "./bc-7.webp",
             para: "Sasuke Uchiha Clan Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -207,7 +207,7 @@ function openProduct() {
         },
         {
             id: 208,
-            img: "/assets/bc-8.webp",
+            img: "./bc-8.webp",
             para: "Roronoa Zoro Graphic Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -215,7 +215,7 @@ function openProduct() {
         },
         {
             id: 209,
-            img: "/assets/bc-9.webp",
+            img: "./bc-9.webp",
             para: "Itachi Uchiha White Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -223,7 +223,7 @@ function openProduct() {
         },
         {
             id: 210,
-            img: "/assets/bc-10.webp",
+            img: "./bc-10.webp",
             para: "Itachi Uchiha Throne Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -231,7 +231,7 @@ function openProduct() {
         },
         {
             id: 211,
-            img: "/assets/bc-11.webp",
+            img: "./bc-11.webp",
             para: "Eren Yeager Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -239,7 +239,7 @@ function openProduct() {
         },
         {
             id: 212,
-            img: "/assets/bc-12.webp",
+            img: "./bc-12.webp",
             para: "Straw Hat Trio Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -247,7 +247,7 @@ function openProduct() {
         },
         {
             id: 213,
-            img: "/assets/bc-13.webp",
+            img: "./bc-13.webp",
             para: "Goku Sketch Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -255,7 +255,7 @@ function openProduct() {
         },
         {
             id: 214,
-            img: "/assets/bc-14.webp",
+            img: "./bc-14.webp",
             para: "Monkey D Luffy Manga Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -263,7 +263,7 @@ function openProduct() {
         },
         {
             id: 215,
-            img: "/assets/bc-15.webp",
+            img: "./bc-15.webp",
             para: "Eren Broken Humanity Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -271,7 +271,7 @@ function openProduct() {
         },
         {
             id: 216,
-            img: "/assets/bc-16.webp",
+            img: "./bc-16.webp",
             para: "Akatsuki Red Cloud Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -279,7 +279,7 @@ function openProduct() {
         },
         {
             id: 217,
-            img: "/assets/bc-17.webp",
+            img: "./bc-17.webp",
             para: "Super Vegeta Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -287,7 +287,7 @@ function openProduct() {
         },
         {
             id: 218,
-            img: "/assets/bc-18.webp",
+            img: "./bc-18.webp",
             para: "Sung Jinwoo Darkness Phone Cover",
             price: 299.00,
             old: 749.00,
@@ -295,7 +295,7 @@ function openProduct() {
         },
         {
             id: 301,
-            img: "./assets/dm-1.webp",
+            img: "./dm-1.webp",
             para: "Itachi Red Moon Desk Mat",
             price: 499.00,
             old3: 1400.00,
@@ -303,7 +303,7 @@ function openProduct() {
         },
         {
             id: 302,
-            img: "/assets/dm-2.webp",
+            img: "./dm-2.webp",
             para: "Luffy Nika Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -311,7 +311,7 @@ function openProduct() {
         },
         {
             id: 303,
-            img: "/assets/dm-3.webp",
+            img: "./dm-3.webp",
             para: "Iron Hunter Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -319,7 +319,7 @@ function openProduct() {
         },
         {
             id: 304,
-            img: "/assets/dm-4.webp",
+            img: "./dm-4.webp",
             para: "Zoro Graphic Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -327,7 +327,7 @@ function openProduct() {
         },
         {
             id: 305,
-            img: "/assets/dm-5.webp",
+            img: "./dm-5.webp",
             para: "Itachi Red Moon Desk Matt",
             price: 499.00,
             old: 1400.00,
@@ -335,7 +335,7 @@ function openProduct() {
         },
         {
             id: 306,
-            img: "/assets/dm-6.webp",
+            img: "./dm-6.webp",
             para: "Tanjiro Kamado Graphic Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -343,7 +343,7 @@ function openProduct() {
         },
         {
             id: 307,
-            img: "/assets/dm-7.webp",
+            img: "./dm-7.webp",
             para: "Flame Hashira Rengoku Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -351,7 +351,7 @@ function openProduct() {
         },
         {
             id: 308,
-            img: "/assets/dm-8.webp",
+            img: "./dm-8.webp",
             para: "Bleach Bankai Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -359,7 +359,7 @@ function openProduct() {
         },
         {
             id: 309,
-            img: "/assets/dm-9.webp",
+            img: "./dm-9.webp",
             para: "Luffy Gear 5 Power Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -367,7 +367,7 @@ function openProduct() {
         },
         {
             id: 310,
-            img: "/assets/dm-10.webp",
+            img: "./dm-10.webp",
             para: "Naruto Six Path Sage Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -375,7 +375,7 @@ function openProduct() {
         },
         {
             id: 311,
-            img: "/assets/dm-11.webp",
+            img: "./dm-11.webp",
             para: "Itachi Red Eye Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -383,7 +383,7 @@ function openProduct() {
         },
         {
             id: 312,
-            img: "/assets/dm-12.webp",
+            img: "./dm-12.webp",
             para: "Tanjiro Rage Burst Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -391,7 +391,7 @@ function openProduct() {
         },
         {
             id: 313,
-            img: "/assets/dm-13.webp",
+            img: "./dm-13.webp",
             para: "Igris Dark Armor Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -399,7 +399,7 @@ function openProduct() {
         },
         {
             id: 314,
-            img: "/assets/dm-14.webp",
+            img: "./dm-14.webp",
             para: "Sun God Nika Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -407,7 +407,7 @@ function openProduct() {
         },
         {
             id: 315,
-            img: "/assets/dm-15.webp",
+            img: "./dm-15.webp",
             para: "Tanjiro and Nezuko Action Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -415,7 +415,7 @@ function openProduct() {
         },
         {
             id: 316,
-            img: "/assets/dm-16.webp",
+            img: "./dm-16.webp",
             para: "Ryomen Sukuna Power Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -423,7 +423,7 @@ function openProduct() {
         },
         {
             id: 317,
-            img: "/assets/dm-17.webp",
+            img: "./dm-17.webp",
             para: "Hashira United Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -431,7 +431,7 @@ function openProduct() {
         },
         {
             id: 318,
-            img: "/assets/dm-18.webp",
+            img: "./dm-18.webp",
             para: "Luffy and Kaido Desk Mat",
             price: 499.00,
             old: 1400.00,
@@ -439,7 +439,7 @@ function openProduct() {
         },
         {
             id: 401,
-            img: "./assets/spc-1.webp",
+            img: "./spc-1.webp",
             para: "Goku Ultra Instinct Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -447,7 +447,7 @@ function openProduct() {
         },
         {
             id: 402,
-            img: "/assets/spc-2.webp",
+            img: "./spc-2.webp",
             para: "Zenitsu Blue Moon Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -455,7 +455,7 @@ function openProduct() {
         },
         {
             id: 403,
-            img: "/assets/spc-3.webp",
+            img: "./spc-3.webp",
             para: "Naruto Shippuden Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -463,7 +463,7 @@ function openProduct() {
         },
         {
             id: 404,
-            img: "/assets/spc-4.webp",
+            img: "./spc-4.webp",
             para: "Sasuke Smoke Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -471,7 +471,7 @@ function openProduct() {
         },
         {
             id: 405,
-            img: "/assets/spc-5.webp",
+            img: "./spc-5.webp",
             para: "Scouting Legion Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -479,7 +479,7 @@ function openProduct() {
         },
         {
             id: 406,
-            img: "/assets/spc-6.webp",
+            img: "./spc-6.webp",
             para: "Goku Darklight Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -487,7 +487,7 @@ function openProduct() {
         },
         {
             id: 407,
-            img: "/assets/spc-7.webp",
+            img: "./spc-7.webp",
             para: "One Piece Crew Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -495,7 +495,7 @@ function openProduct() {
         },
         {
             id: 408,
-            img: "/assets/spc-8.webp",
+            img: "./spc-8.webp",
             para: "One Piece Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -503,7 +503,7 @@ function openProduct() {
         },
         {
             id: 409,
-            img: "/assets/spc-9.webp",
+            img: "./spc-9.webp",
             para: "Vegeta Manga Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -511,7 +511,7 @@ function openProduct() {
         },
         {
             id: 410,
-            img: "/assets/spc-10.webp",
+            img: "./spc-10.webp",
             para: "Itachi Uchiha Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -519,7 +519,7 @@ function openProduct() {
         },
         {
             id: 411,
-            img: "/assets/spc-11.webp",
+            img: "./spc-11.webp",
             para: "Tanjiro White Moon Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -527,7 +527,7 @@ function openProduct() {
         },
         {
             id: 412,
-            img: "/assets/spc-12.webp",
+            img: "./spc-12.webp",
             para: "Satoru Cursed Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -535,7 +535,7 @@ function openProduct() {
         },
         {
             id: 413,
-            img: "/assets/spc-13.webp",
+            img: "./spc-13.webp",
             para: "Itachi Uchiha Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -543,7 +543,7 @@ function openProduct() {
         },
         {
             id: 414,
-            img: "/assets/spc-14.webp",
+            img: "./spc-14.webp",
             para: "Naruto Clone Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -551,7 +551,7 @@ function openProduct() {
         },
         {
             id: 415,
-            img: "/assets/spc-15.webp",
+            img: "./spc-15.webp",
             para: "Sung Jinwoo Arise Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -559,7 +559,7 @@ function openProduct() {
         },
         {
             id: 416,
-            img: "/assets/spc-16.webp",
+            img: "./spc-16.webp",
             para: "Zenitsu Katana Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -567,7 +567,7 @@ function openProduct() {
         },
         {
             id: 417,
-            img: "/assets/spc-17.webp",
+            img: "./spc-17.webp",
             para: "Goku Dark Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
@@ -575,7 +575,7 @@ function openProduct() {
         },
         {
             id: 418,
-            img: "/assets/spc-18.webp",
+            img: "./spc-18.webp",
             para: "Satoru Funko Silicone Armored Phone Case",
             price: 399.00,
             old: 999.00,
